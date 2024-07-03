@@ -1,8 +1,7 @@
 <script>
-import NavBar from "./components/NavBar.vue";
 
 export default {
-  components: {NavBar}
+ 
 };
 
 
@@ -12,7 +11,6 @@ export default {
 
 <div id="app" class="nav">
   
-    <NavBar />
  
     
     <div class="content">
